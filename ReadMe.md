@@ -31,12 +31,12 @@ pip install -r requirements.txt
 * hok_meta.db: Database dalam proyek ini menggunakan SQLite, yang merupakan database ringan berbasis file.
 
 ### Interface
-![alt text](src\image.png)
+![alt text](src/image.png)
 
 ### Input
-![alt text](src\image-1.png)
+![alt text](src/image-1.png)
 Lakukan input pertanyaan terkait hero yang overpower atau yang sedang meta pada lane tertentu.
 
 ### Output
-![alt text](src\image-2.png)
+![alt text](src/image-2.png)
 Hasil akan memberikan rekomendasi hero berdasarkan pertanyaan mengenai hero yang sedang meta.
