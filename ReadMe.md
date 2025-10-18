@@ -1,6 +1,6 @@
 # Chatbot Meta Hero Honor of Kings
 
-**Chatbot Meta Hero Honor of Kings**, sebuah aplikasi berbasis Streamlit yang menggunakan AI untuk memberikan rekomendasi meta hero berdasarkan data dari game MOBA mobile Honor of Kings (HoK). Chatbot ini dirancang untuk membantu pemain menemukan hero OP (overpowered) per lane berdasarkan win rate, pick rate, dan ban rate, dengan fokus pada meta Oktober 2025.
+**Chatbot Meta Hero Honor of Kings**, sebuah aplikasi berbasis Streamlit yang menggunakan AI untuk memberikan rekomendasi meta hero berdasarkan data dari game MOBA Honor of Kings (HoK). Chatbot ini dirancang untuk membantu pemain menemukan hero OP (overpowered) per lane berdasarkan win rate, pick rate, dan ban rate, dengan fokus pada meta Oktober 2025.
 
 ## Getting Started
 
