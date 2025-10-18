@@ -1,0 +1,108 @@
+name,primary_lane,tier,win_rate,pick_rate,ban_rate,description
+Arthur,Clash Lane,S,55.2,23.5,40.0,Tank with strong CC, ultimate teamfight changer
+Zilong,Clash Lane,A,53.7,19.8,25.0,Fighter with high mobility, effective ganker
+Lu Bu,Clash Lane,A,53.9,19.7,24.0,Fighter with high burst and true damage
+Dian Wei,Clash Lane,A,53.6,19.0,23.0,Dueling and objective control
+Liu Bei,Clash Lane,A,53.2,18.5,20.0,Fighter with sustain, team synergy
+Dharma,Clash Lane,A,53.0,17.8,19.0,Tank with multi-CC, defensive tank
+Fuzi,Clash Lane,A,52.9,17.5,18.0,Tank with shield, frontline utility
+Yao,Clash Lane,A,53.1,18.0,20.0,Tank support hybrid, dual control
+Wuyan,Clash Lane,A,53.3,18.2,21.0,Tank with high defense, engage strong
+Fatih,Clash Lane,A,52.8,17.3,18.5,Fighter with burst, lane dominator
+Musashi,Clash Lane,A,53.4,18.5,22.0,Samurai dueler, 1v1 specialist
+Umbrosa,Clash Lane,A,52.7,17.0,17.5,Fighter with shadow, burst damage
+Augran,Clash Lane,S,55.2,23.0,40.0,Fighter with sustain, late game carry
+Guan Yu,Clash Lane,A,53.5,18.7,23.0,Fighter with mobility, split push expert (Buff Stat)
+Luna,Clash Lane,A,53.0,17.6,18.0,Fighter mage hybrid, crescent moon ultimate
+Yang Jian,Clash Lane,S,55.3,23.5,35.0,Fighter with high mobility, upgraded mechanics (Upgrade Mekanika)
+Nezha,Clash Lane,A,53.7,19.2,24.0,Assassin burst, high mobility
+Athena,Clash Lane,A,53.4,18.0,20.5,Tank with shield, team protect (Buff Stat)
+Menki,Clash Lane,A,52.6,17.1,17.0,Fighter with agility, gank specialist
+Sun Ce,Clash Lane,S,54.9,21.5,33.0,Fighter versatile, great for engage and split push
+Charlotte,Clash Lane,A,53.5,18.3,22.5,High mobility, strong in 1v1
+Mayene,Clash Lane,A,52.8,17.2,18.0,Fighter with sustain, lane control
+Mulan,Clash Lane,A,53.6,18.8,22.0,Adaptive fighter, strong in all phases
+Allain,Clash Lane,A,53.1,17.9,19.0,Fighter with sustain, lane dominator
+Biron,Clash Lane,A,53.0,17.4,18.5,Tank fighter, peel and engage strong
+Kaizer,Clash Lane,A,53.3,18.1,20.0,Fighter with burst, team carry (Buff Stat)
+Li Xin,Clash Lane,A,53.2,18.0,19.5,Fighter with dual blades, high damage
+Butterfly,Clash Lane,A,53.4,18.3,21.0,Fighter with flutter, burst damage (Buff Stat)
+Ying,Clash Lane,A,52.7,17.0,17.5,Fighter with clones, deceptive play
+Luban No.7,Farm Lane,A,53.0,18.5,20.0,Marksman with turret, team utility
+Hou Yi,Farm Lane,A,53.1,18.7,16.5,Long range, safe laning
+Di Renjie,Farm Lane,A,53.2,18.9,19.0,Marksman with consistent poke, long range
+Flowborn,Farm Lane,A,52.9,17.6,18.0,Marksman with agility, burst damage
+Erin,Farm Lane,A,53.1,18.2,17.5,Marksman with shield, safe play
+Chano,Farm Lane,A,52.8,17.4,17.0,Marksman with mobility, poke specialist
+Shouyue,Farm Lane,A,52.6,17.1,16.5,Marksman with lunar skill, late game
+Garo,Farm Lane,A,53.3,18.8,19.5,Marksman with trap, burst damage
+Alessio,Farm Lane,A,52.7,17.3,17.0,Marksman with dual shot, consistent damage
+Ao’yin,Farm Lane,A,53.0,18.0,18.0,Marksman with dragon form, burst damage skill Marksman
+Lady Sun,Farm Lane,A,53.2,18.6,20.0,Ultimate team buff, damage consistent
+Marco Polo,Farm Lane,S,54.0,23.5,27.0,High mobility, strong all game stages
+Consort Yu,Farm Lane,A,52.9,17.8,18.5,Burst and mobility combo
+Agudo,Farm Lane,A,53.4,18.9,21.0,Marksman with plant, upgraded mechanics (Upgrade Mekanika)
+Fang,Farm Lane,A,52.8,17.5,17.0,Marksman with wolf, burst play
+Huang Zhong,Farm Lane,A,53.1,18.3,18.5,Marksman with long range, late game
+Arli,Farm Lane,A,52.6,17.0,16.5,Marksman with agility, poke damage
+Meng Ya,Farm Lane,A,53.3,18.7,20.0,Marksman with spin, high damage (Buff Stat)
+Luara,Farm Lane,A,52.7,17.2,17.0,Marksman with illusion, deceptive ADC
+Lian Po,Clash Lane,A,53.0,17.8,19.0,Tank with high defense, frontline
+Bai Qi,Clash Lane,A,53.2,18.0,20.0,Tank with heal, sustain tank
+Xiang Yu,Clash Lane,A,53.4,18.5,22.0,Tank with knockback, engage strong
+Ata,Clash Lane,A,52.9,17.3,18.0,Tank with shield, team protect
+Flowborn,Clash Lane,A,53.1,17.9,19.5,Tank with transform, versatile tank
+Dun,Clash Lane,A,53.6,18.2,21.0,Tank with excellent peel for carry protection
+Liu Bang,Clash Lane,A,53.3,18.0,20.0,Tank with ultimate, team utility
+Xiao Qiao,Mid Lane,A,52.8,17.0,17.5,Mage with dance, burst damage
+Mozi,Mid Lane,A,52.9,17.2,18.0,Mage with cannon, area control
+Zhou Yu,Mid Lane,A,53.0,17.5,19.0,Mage with fire, poke specialist
+Daji,Mid Lane,S,55.1,23.0,36.0,Mage burst one-shot, strong roamer
+Gao,Mid Lane,A,52.7,16.8,17.0,Mage with shield, sustain play
+Dr Bian,Mid Lane,A,52.6,16.6,16.5,Mage healer, team support
+Mi Yue,Mid Lane,A,52.8,17.1,17.5,Mage with control, ultimate strong
+Lady Zhen,Mid Lane,A,52.5,16.4,16.0,Mage with charm, burst damage
+Gan & Mo,Mid Lane,A,52.9,17.3,18.0,Mage duo, area control
+Ziya,Mid Lane,A,53.1,17.6,19.0,Mage with bind, CC specialist
+Diaochan,Mid Lane,A,53.3,18.0,20.0,Mage with dance, high burst (Buff Stat)
+Angela,Mid Lane,S,54.7,21.5,31.0,Mage support, ultimate game-changer
+Wang Zhaojun,Mid Lane,A,52.7,17.0,17.5,Mage with freeze, area control
+Liang,Mid Lane,A,52.6,16.9,16.5,Mage with shield, team utility
+Yuhuan,Mid Lane,A,52.4,16.3,16.0,Mage with charm, team synergy
+Nuwa,Mid Lane,A,53.0,17.4,18.0,Mage with create, objective control
+Kongming,Mid Lane,A,53.2,18.0,25.0,Mage area control, objective denial
+Yixing,Mid Lane,A,52.9,17.2,18.0,Mage zone control in teamfights
+Milady,Mid Lane,A,52.5,16.5,16.0,Mage with illusion, burst play
+Shangguan,Mid Lane,A,52.8,17.1,17.5,Mage with shield, team protect
+Shi,Mid Lane,A,52.6,16.7,16.5,Mage with transform, area damage
+Heino,Mid Lane,A,52.7,17.0,17.0,Mage with energy, poke specialist
+Flowborn,Mid Lane,A,53.1,17.8,19.0,Mage with adapt, versatile mage
+Gao Changgong,Jungle,A,52.8,18.0,22.0,Assassin with stealth, burst damage
+Arke,Jungle,A,52.6,17.5,20.0,Assassin with speed, gank specialist
+Han Xin,Jungle,A,53.0,18.5,24.0,Assassin with agility, jungle dominator
+Li Bai,Jungle,A,52.5,18.2,23.0,Invulnerable frames, slippery assassin
+Sima Yi,Jungle,A,52.7,18.0,21.0,Assassin with clone, burst play
+Nakoruru,Jungle,A,52.4,17.6,20.0,Assassin with hawk, mobility burst
+Mai Shiranui,Jungle,A,52.6,17.8,18.0,Mage poke and burst specialist
+Ukyo Tachibana,Jungle,A,52.3,17.3,19.0,Assassin with katana, dueler
+Wukong,Jungle,A,53.1,18.4,22.0,Assassin with transform, tanky burst
+Xuance,Jungle,A,52.9,18.0,20.5,Assassin with shield, team synergy
+Pei,Jungle,A,52.5,17.7,19.0,Assassin with charge, burst damage
+Cirrus,Jungle,A,52.4,17.4,18.5,Assassin with wind, mobility play
+Lam,Jungle,S,55.2,24.8,40.0,Assassin with fast clear, best ganker
+Jing,Jungle,A,52.7,18.1,21.0,Assassin with trap, burst specialist
+Feyd,Jungle,A,52.3,17.2,19.5,Assassin with poison, sustain damage
+Sun Bin,Roaming,A,53.0,18.0,19.0,Support with speed, team utility
+Liu Shan,Roaming,A,52.4,17.3,17.0,Support with protect, CC and shield
+Zhang Fei,Roaming,A,53.3,18.5,18.0,Strong initiation, team utility (Buff Stat)
+Zhuangzi,Roaming,A,52.6,17.1,16.5,Support with transform, utility play
+Cai Yan,Roaming,A,53.1,18.2,18.5,Support with heal, team sustain
+Kui,Roaming,A,52.8,17.6,17.0,Support with CC, engage strong
+Guiguzi,Roaming,A,52.9,17.8,18.0,Support with summon, team control
+Donghuang,Roaming,A,53.2,18.3,19.5,Support with shield, ultimate strong
+Sakeer,Roaming,A,52.5,17.0,16.5,Support with heal, utility play
+Da Qiao,Roaming,S,54.5,20.8,30.0,Global ultimate, vision control
+Yaria,Roaming,S,54.1,20.6,29.0,Support with multi-CC, healing, fits all comps
+Ming,Roaming,A,52.7,17.4,17.5,Support with shield, team protect
+Dyadia,Roaming,A,52.8,17.7,18.0,Lockdown multi enemy, peel strong
+Dolia,Roaming,A,52.9,17.9,19.0,Protects hypercarry, CC chain

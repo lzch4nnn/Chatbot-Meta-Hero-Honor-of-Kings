@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-google-genai
+langgraph
+sqlite3
+re
+csv
