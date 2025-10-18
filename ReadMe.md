@@ -25,6 +25,13 @@ Arahkan ke direktori proyek dan instal paket yang diperlukan:
 ```bash
 pip install -r requirements.txt
 ```
+### Run the Streamlit Application
+```bash
+streamlit run chatbot.py
+
+Aplikasi akan terbuka di web browser.
+```
+
 ### Code Structure
 * chatbot.py: File aplikasi Streamlit utama, yang berisi UI chatbot dan logika.
 * requirements.txt: Menyusun semua ketergantungan Python yang diperlukan untuk proyek.
