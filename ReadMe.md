@@ -5,7 +5,7 @@
 ## Getting Started
 
 ### Prerequisites
-Ensure you have Python installed. It is recommended to use Miniconda or Conda for environment management.
+Pastikan Anda telah menginstal Python. Disarankan untuk menggunakan Miniconda atau Conda untuk environment management.
 
 ### Installation
 
@@ -14,7 +14,7 @@ Download and install Miniconda from the official website:
 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 
 #### Create a Conda Environment
-Open your terminal or Anaconda Prompt and create a new environment:
+Buka terminal atau Anaconda Prompt Anda dan buat environment:
 ```bash
 conda create -n chatbot-env python=3.9
 conda activate chatbot-env
